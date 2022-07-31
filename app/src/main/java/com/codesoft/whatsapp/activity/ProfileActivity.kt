@@ -48,10 +48,7 @@ class ProfileActivity : AppCompatActivity() {
             if (binding.userName.text!!.isEmpty()){
                 Toast.makeText(this, "Enter Your Name...", Toast.LENGTH_SHORT).show()
             }
-            else if (selectedImg == null){
-                Toast.makeText(this, "Please, Select Image...", Toast.LENGTH_SHORT).show()
-            }
-            else{
+            else {
                 uploadData()
             }
         }
@@ -70,7 +67,10 @@ class ProfileActivity : AppCompatActivity() {
     }
 
     private fun uploadInfo(imgUrl: String) {
-        val user = UserModel(auth.uid.toString(),binding.userName.toString(),auth.currentUser!!.phoneNumber.toString(),imgUrl)
+        val user = UserModel(auth.uid.toString(),
+            binding.userName.text.toString(),
+            auth.currentUser!!.phoneNumber.toString(),
+            imgUrl)
 
         database.reference.child("users")
             .child(auth.uid.toString())

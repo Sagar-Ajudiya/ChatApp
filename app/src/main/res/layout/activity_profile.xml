@@ -12,7 +12,7 @@
     <de.hdodenhof.circleimageview.CircleImageView
         android:layout_width="120dp"
         android:layout_height="120dp"
-        android:src="@drawable/logo"
+        android:src="@drawable/profile"
         android:id="@+id/userImage"/>
 
     <TextView
@@ -21,7 +21,6 @@
         android:text="Profile Info"
         android:textSize="18sp"
         android:textStyle="bold"
-        android:textColor="@color/black"
         android:layout_marginTop="16dp"/>
 
     <TextView
@@ -29,7 +28,6 @@
         android:layout_height="wrap_content"
         android:text="Set Your Name and Image"
         android:textSize="16sp"
-        android:textColor="@color/black"
         android:layout_marginTop="16dp"/>
 
     <com.google.android.material.textfield.TextInputLayout
@@ -44,6 +42,7 @@
             android:id="@+id/userName"
             android:hint="Enter Your Name" />
     </com.google.android.material.textfield.TextInputLayout>
+
 
     <com.google.android.material.button.MaterialButton
         android:layout_width="match_parent"

@@ -44,7 +44,7 @@ class ChatActivity : AppCompatActivity() {
         
         binding.imageView2.setOnClickListener { 
             if (binding.messageBox.text.isEmpty()){
-                Toast.makeText(this, "Please Enter Text", Toast.LENGTH_SHORT).show()
+                Toast.makeText(this, "Please Enter The Message", Toast.LENGTH_SHORT).show()
             }
             else{
                 val message = MessageModel(binding.messageBox.text.toString(),senderuid,Date().time)

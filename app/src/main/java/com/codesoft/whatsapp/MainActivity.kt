@@ -1,8 +1,12 @@
 package com.codesoft.whatsapp
 
+import android.R
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.Window
+import android.view.WindowManager
+import androidx.appcompat.app.AppCompatActivity
+import androidx.core.content.ContextCompat
 import androidx.fragment.app.Fragment
 import com.codesoft.whatsapp.activity.NumberActivity
 import com.codesoft.whatsapp.adapter.ViewPagerAdapter
@@ -11,6 +15,7 @@ import com.codesoft.whatsapp.ui.CallFragment
 import com.codesoft.whatsapp.ui.ChatFragment
 import com.codesoft.whatsapp.ui.StatusFragment
 import com.google.firebase.auth.FirebaseAuth
+
 
 class MainActivity : AppCompatActivity() {
 

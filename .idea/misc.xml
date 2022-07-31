@@ -4,19 +4,22 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android Project/WhatsApp/app/src/main/res/drawable/circle_bg.xml" value="0.2265" />
+        <entry key="..\:/Android Project/WhatsApp/app/src/main/res/drawable/receiver_drawable.xml" value="0.2265" />
         <entry key="..\:/Android Project/WhatsApp/app/src/main/res/drawable/reciver_drawable.xml" value="0.2265" />
         <entry key="..\:/Android Project/WhatsApp/app/src/main/res/drawable/sent_drawable.xml" value="0.2265" />
         <entry key="..\:/Android Project/WhatsApp/app/src/main/res/layout/activity_chat.xml" value="0.18432971014492755" />
         <entry key="..\:/Android Project/WhatsApp/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
-        <entry key="..\:/Android Project/WhatsApp/app/src/main/res/layout/activity_number.xml" value="0.18432971014492755" />
+        <entry key="..\:/Android Project/WhatsApp/app/src/main/res/layout/activity_number.xml" value="0.25" />
         <entry key="..\:/Android Project/WhatsApp/app/src/main/res/layout/activity_otpactivity.xml" value="0.25" />
         <entry key="..\:/Android Project/WhatsApp/app/src/main/res/layout/activity_profile.xml" value="0.18432971014492755" />
         <entry key="..\:/Android Project/WhatsApp/app/src/main/res/layout/chat_user_item_layout.xml" value="0.18432971014492755" />
         <entry key="..\:/Android Project/WhatsApp/app/src/main/res/layout/fragment_call.xml" value="0.22826086956521738" />
         <entry key="..\:/Android Project/WhatsApp/app/src/main/res/layout/fragment_chat.xml" value="0.22826086956521738" />
         <entry key="..\:/Android Project/WhatsApp/app/src/main/res/layout/fragment_status.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android Project/WhatsApp/app/src/main/res/layout/receiver_item_layout.xml" value="0.22826086956521738" />
         <entry key="..\:/Android Project/WhatsApp/app/src/main/res/layout/reciver_item_layout.xml" value="0.22826086956521738" />
         <entry key="..\:/Android Project/WhatsApp/app/src/main/res/layout/sent_item_layout.xml" value="0.18432971014492755" />
+        <entry key="..\:/Android Project/WhatsApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2265" />
       </map>
     </option>
   </component>
