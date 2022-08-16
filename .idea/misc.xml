@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Project/ChatApp/app/src/main/res/layout/activity_chat.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android Project/ChatApp/app/src/main/res/layout/activity_main.xml" value="0.10625" />
+        <entry key="..\:/Android Project/ChatApp/app/src/main/res/layout/activity_number.xml" value="0.22146739130434784" />
+        <entry key="..\:/Android Project/ChatApp/app/src/main/res/layout/activity_otpactivity.xml" value="0.264" />
+        <entry key="..\:/Android Project/ChatApp/app/src/main/res/layout/activity_profile.xml" value="0.22146739130434784" />
         <entry key="..\:/Android Project/WhatsApp/app/src/main/res/drawable/circle_bg.xml" value="0.2265" />
         <entry key="..\:/Android Project/WhatsApp/app/src/main/res/drawable/receiver_drawable.xml" value="0.2265" />
         <entry key="..\:/Android Project/WhatsApp/app/src/main/res/drawable/reciver_drawable.xml" value="0.2265" />
