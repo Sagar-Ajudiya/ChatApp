@@ -72,7 +72,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:inputType="number"
-                    android:hint="Type Phone Number" />
+                    android:hint="Enter Phone Number" />
             </com.google.android.material.textfield.TextInputLayout>
 
             <Button
