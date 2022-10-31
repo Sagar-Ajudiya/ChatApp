@@ -1,4 +1,6 @@
 # ChatApp
+This app is created using Firebase..
+user start chat with other users..
 
 # Demo Video
 
